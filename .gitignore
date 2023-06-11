@@ -81,3 +81,6 @@ crashlytics-build.properties
 # Unity generated .meta files
 *.meta
 
+# MAC generated .meta files
+*.DS_Store
+
